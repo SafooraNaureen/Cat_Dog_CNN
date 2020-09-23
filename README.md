@@ -12,6 +12,8 @@ This project was done by viewing Udemy course "Machine Learning A-Z™: Hands-On
 
 The dataset for this project can be found here: https://www.kaggle.com/tongpython/cat-and-dog
 
+Deployed the model on local maching by refering the article: https://www.geeksforgeeks.org/deploying-a-tensorflow-2-1-cnn-model-on-the-web-with-flask/
+
 Python Version: 3.8
 
 Packages: pandas, numpy, keras, tensorflow, flask, json, html.
